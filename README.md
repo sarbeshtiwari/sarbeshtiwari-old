@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:1f6feb&height=190&section=header&text=Sarbesh%20Kumar%20Tiwari&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=AI%2FML%20Engineer%20%C2%B7%20LLM%20Evaluation%20%C2%B7%20Full-Stack&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Sarbesh Kumar Tiwari"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0d1117%2C50%3A6e40c9%2C100%3A1f6feb&height=190&section=header&text=Sarbesh+Kumar+Tiwari&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=AI%2FML+Software+Engineer+%C2%B7+Generative+AI+%C2%B7+LLM+Evaluation+%C2%B7+AI+Agents&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Sarbesh Kumar Tiwari"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A371F7&center=true&vCenter=true&width=720&lines=Building+AI+systems+that+can+be+measured.;LLM+evaluation+%C2%B7+reasoning+benchmarks+%C2%B7+AI+agents;Python+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Node.js;From+research+workflows+to+production+software." alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=A371F7&center=true&vCenter=true&width=720&lines=AI%2FML+Software+Engineer+%C2%B7+Generative+AI%3BLLM+evaluation+%C2%B7+reasoning+benchmarks+%C2%B7+AI+agents%3BPython+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Node.js%3BAWS+%C2%B7+Docker+%C2%B7+production+deployments" alt="Typing intro"/>
 
 <p>
 <a href="https://sarbeshtiwari.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -20,24 +20,25 @@
 
 ### 🧠 About me
 
-I build AI systems that can be **measured**, and the software that ships them.
+I'm an **AI/ML Software Engineer** working on **Generative AI and LLM engineering**. I build AI systems that can be **measured**, and the production software that ships them.
 
-- 🔬 **Now:** LLM evaluation, reasoning benchmarks and frontier-model datasets at **Quess Corp**
-- 🤖 **Building:** AI agents, evaluation harnesses and AI-powered products
-- 🌐 **Shipping:** full-stack apps with Python, FastAPI, React, Next.js and Node.js
-- 📍 Gurugram, India · open to interesting AI work
+- 🔬 **Now:** Full Stack Developer (AI Engineer) at **Quess Corp Ltd.**, assigned to **Ethara.ai** – LLM evaluation, reasoning benchmarks and agent-trajectory analysis
+- 🤖 **Building:** AI agents, evaluation harnesses and automation in **Python** and **FastAPI**
+- 🌐 **Shipping:** full-stack apps with **React, Next.js and Node.js**, deployed on **AWS** with **Docker**
+- 📈 **Production track record:** 10+ apps · 30,000+ daily active users · 50+ REST endpoints · 99.5% uptime
+- 📍 Gurugram, India · open to AI/ML and software engineering roles
 
 </td>
 <td width="42%" valign="top">
 
 ```python
 class Sarbesh:
-    role  = ["AI/ML Engineer",
-             "LLM Evaluation",
-             "Full-Stack"]
+    role  = ["AI/ML Software Engineer",
+             "Generative AI",
+             "LLM Evaluation"]
     focus = ["Reasoning benchmarks",
              "AI agents",
-             "Production software"]
+             "Production engineering"]
     motto = "Build → Measure → Ship"
 ```
 
@@ -70,27 +71,28 @@ class Sarbesh:
 <table>
 <tr>
 <td width="50%"><a href="https://github.com/sarbeshtiwari/pencil-puzzle-bench"><img src="assets/pencil-puzzle-bench.svg" width="100%" alt="Pencil Puzzle Bench"/></a></td>
-<td width="50%"><a href="https://github.com/sarbeshtiwari/arc-agi-3"><img src="assets/arc-agi-3.svg" width="100%" alt="ARC-AGI-3 Platform"/></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/sarbeshtiwari/reachout-backend"><img src="assets/reachout.svg" width="100%" alt="Reachout"/></a></td>
 <td width="50%"><a href="https://github.com/sarbeshtiwari/voicepilot"><img src="assets/voicepilot.svg" width="100%" alt="VoicePilot"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/sarbeshtiwari/trading-software"><img src="assets/trading.svg" width="100%" alt="ATS Trading System"/></a></td>
-<td width="50%"><a href="https://github.com/sarbeshtiwari/adpilot"><img src="assets/adpilot.svg" width="100%" alt="AdPilot"/></a></td>
+<td width="50%"><a href="https://github.com/sarbeshtiwari/reachout-backend"><img src="assets/reachout.svg" width="100%" alt="Reachout"/></a></td>
+<td width="50%"><a href="https://github.com/sarbeshtiwari/sitesentinel"><img src="assets/sitesentinel.svg" width="100%" alt="SiteSentinel"/></a></td>
 </tr>
 <tr>
-<td width="50%"><img src="assets/sitesentinel.svg" width="100%" alt="SiteSentinel (private)"/></td>
-<td width="50%"><img src="assets/frontier.svg" width="100%" alt="AI Frontier Model Wrapper"/></td>
+<td width="50%"><a href="https://github.com/sarbeshtiwari/trading-software"><img src="assets/trading.svg" width="100%" alt="ATS Trading System"/></a></td>
+<td width="50%"><a href="https://github.com/sarbeshtiwari/arc-agi-3"><img src="assets/arc-agi-3.svg" width="100%" alt="ARC-AGI-3 Platform"/></a></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><a href="https://github.com/sarbeshtiwari/adpilot"><img src="assets/adpilot.svg" width="50%" alt="AdPilot"/></a></td>
 </tr>
 </table>
 
 ## 🧭 Journey
 
-<img src="assets/journey.svg" width="100%" alt="Experience: Quess Corp (Feb 2026 – present), Ecorp Info Systems (Jul 2024 – Feb 2026); B.Tech Data Science & AI, SRMU (2020 – 2024)"/>
+<img src="assets/journey.svg" width="100%" alt="Experience: Quess Corp Ltd. – Full Stack Developer (AI Engineer), assigned to Ethara.ai (Feb 2026 – present); Ecorp Info Systems – Full Stack Developer (Jul 2024 – Feb 2026); B.Tech Data Science &amp; AI, SRMU (2020 – 2024)"/>
 
-**Certifications:** ☁️ AWS Certified Cloud Practitioner · 🤖 AI/ML in Python · 🧠 Machine Learning · 🗄️ IBM SQL & Relational Databases · 🔐 Cisco Intro to Cybersecurity · 📱 Android Bug Bounty · 🎵 ML in Sound
+**Impact at Ecorp Info Systems:** 10+ production applications · 30,000+ daily active users combined · 50+ REST API endpoints · API response time 800 ms → 200 ms · page-load time −40% · deployments 45 → 8 min · 99.5% uptime
+
+**Certifications:** ☁️ AWS Cloud Practitioner – Course Completed · 🤖 AI/ML in Python · 🧠 Machine Learning · 🗄️ IBM SQL & Relational Databases · 🔐 Cisco Intro to Cybersecurity · 📱 Android Bug Bounty · 🎵 ML in Sound
 
 ## 📊 GitHub activity
 
