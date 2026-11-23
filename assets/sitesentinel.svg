@@ -6,7 +6,7 @@
 <rect x="0" y="22" width="4" height="34" rx="2" fill="#39d0d8"/>
 <text x="22" y="47" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22">🛰️</text>
 <text x="56" y="46" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#e6edf3">SiteSentinel</text>
-<text x="420" y="44" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#39d0d8">private</text>
+<text x="420" y="44" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#39d0d8">in development</text>
 <text x="22" y="80" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#9da7b3">Multi-tenant website monitoring SaaS: uptime, browser</text>
 <text x="22" y="99" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#9da7b3">tests, deep scans, performance, RUM and incident alerts.</text>
 <rect x="22" y="148" width="68" height="24" rx="12" fill="#39d0d8" fill-opacity=".14" stroke="#39d0d8" stroke-opacity=".45"/>
